@@ -1,13 +1,31 @@
 # GDIM32 In Class Activities
-## Instructions
-Put each week's activities under new headers like the one shown above. Headers are created with the # symbol. More # symbols = smaller header.
+## W1
+### Activity 1: 
+
+Playtest all iterations of the game, not just the "finished" version. Make sure to double check if the link to your game works. 
 
 
-Hit enter TWICE to create a new line.
+
+### Activity 2: 
+
+1. 10
+
+2. 2
+
+3. It puts a message in the consolde when the method PrintMessage runs.
+
+4. MonoBehavior
+
+5.  Prints x = 10 in the console.
+
+6. Parameters and arguments that are passed into methods.
+
+7. Transform.Translate(_direction) is invalid and will not work
+
+8. _playerTransform.Translate(_direction)
 
 
-- Create bullet points by writing dashes.
-- Here's another bullet point entry.
 
+### Activity 3:
 
-Remove all placeholder text in order to get full credit for README file formatting.
+[MG1 Break-Down Document] (https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?usp=sharing)
