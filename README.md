@@ -28,4 +28,4 @@ Playtest all iterations of the game, not just the "finished" version. Make sure 
 
 ### Activity 3:
 
-[MG1 Break-Down Document] (https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?usp=sharing)
+[MG1 Break-Down Document](https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?usp=sharing)
