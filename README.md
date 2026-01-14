@@ -29,3 +29,10 @@ Playtest all iterations of the game, not just the "finished" version. Make sure 
 ### Activity 3:
 
 [MG1 Break-Down Document](https://docs.google.com/document/d/1MR5s2MD1t6kFIP1PlwggtskA_hNJPmX335sJPT-4Uuw/edit?usp=sharing)
+
+## W2
+### Activity 1:
+
+### Activity 2: 
+
+[MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-oop-review-svytla07/commit/244ebcda222947fc34c24316996723783ada5ff5)
