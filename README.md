@@ -36,3 +36,5 @@ Playtest all iterations of the game, not just the "finished" version. Make sure 
 ### Activity 2: 
 
 [MG2 Commit](https://github.com/UCI-GDIM32-W25/mg2-oop-review-svytla07/commit/244ebcda222947fc34c24316996723783ada5ff5)
+
+I created the canvas and the player object as well as made the player script and a s cript for the GameController and for the HUD. I made sure to attach the player script to the player object and then I added a rigidbody and capsule collider that i made sure to assign to variables that I created in the script. 
