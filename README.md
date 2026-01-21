@@ -46,3 +46,5 @@ I created the canvas and the player object as well as made the player script and
 Mira Liu
 
 ### Activity 3: 
+<img width="833" height="623" alt="Screenshot 2026-01-20 at 6 32 05 PM" src="https://github.com/user-attachments/assets/36b05d12-c2fb-4b5b-8a3f-7afba17a0561" />
+
