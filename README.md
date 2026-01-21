@@ -41,7 +41,7 @@ Playtest all iterations of the game, not just the "finished" version. Make sure 
 
 I created the canvas and the player object as well as made the player script and a s cript for the GameController and for the HUD. I made sure to attach the player script to the player object and then I added a rigidbody and capsule collider that i made sure to assign to variables that I created in the script. 
 
-## W2
+## W3
 ### Activities 0-2: 
 Mira Liu
 
