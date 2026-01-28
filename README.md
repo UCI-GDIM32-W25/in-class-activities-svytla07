@@ -48,3 +48,16 @@ Mira Liu
 ### Activity 3: 
 <img width="833" height="623" alt="Screenshot 2026-01-20 at 6 32 05 PM" src="https://github.com/user-attachments/assets/36b05d12-c2fb-4b5b-8a3f-7afba17a0561" />
 
+## W4
+### Activity 0:
+Mira Liu
+
+### Activity 1:
+When we add mutiple objects with the locator script component, after we run the game it gets rid of the locator script component on all of the objects except one since the code in the class is making it so there is only one instance of the locator script component. 
+
+### Activity 2:
+
+### Activity 3:
+[MG4 Commit](https://github.com/svytla07/HW4/commit/bbd61fc867360404001fd4a2b2b73c0de721ad42)
+
+I created the project and imported spritesheets which I then spilt in the Sprite Editor to make them usuable. Then I created a player object and gave it a sprite renderer component and a rigidbody2d component. I also made a ground object and gave it a boxcollider component. I also made two prefabs for the top and bottom parts of the platform and gave them spriterenderer components. Lastly I made a player script and attached it to the player object, a platform script that I attached to platform prefabs and a game controller script that I attached to an empty game object for the game controller. 
