@@ -56,6 +56,7 @@ Mira Liu
 When we add mutiple objects with the locator script component, after we run the game it gets rid of the locator script component on all of the objects except one since the code in the class is making it so there is only one instance of the locator script component. 
 
 ### Activity 2:
+<img width="844" height="633" alt="Screenshot 2026-01-27 at 6 34 13 PM" src="https://github.com/user-attachments/assets/5a8779f5-9289-4b07-8d4f-c1f309ab2524" />
 
 ### Activity 3:
 [MG4 Commit](https://github.com/svytla07/HW4/commit/bbd61fc867360404001fd4a2b2b73c0de721ad42)
