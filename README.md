@@ -89,4 +89,5 @@ Willow could use a Finate State Machine to represent the growth of the plant and
 ### Activity 4:
 
 Attendence: Mira Liu, Beiduo Jin, Luis Alberto Jr. Chavarin
+
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
