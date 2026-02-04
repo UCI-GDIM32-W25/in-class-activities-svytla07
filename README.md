@@ -62,3 +62,31 @@ When we add mutiple objects with the locator script component, after we run the 
 [MG4 Commit](https://github.com/svytla07/HW4/commit/bbd61fc867360404001fd4a2b2b73c0de721ad42)
 
 I created the project and imported spritesheets which I then spilt in the Sprite Editor to make them usuable. Then I created a player object and gave it a sprite renderer component and a rigidbody2d component. I also made a ground object and gave it a boxcollider component. I also made two prefabs for the top and bottom parts of the platform and gave them spriterenderer components. Lastly I made a player script and attached it to the player object, a platform script that I attached to platform prefabs and a game controller script that I attached to an empty game object for the game controller. 
+
+## W5
+### Activity 1:
+
+I think I would keep it very similar as it makes sense to have items be able to inherit from an parent class since all the items will share at least one attribute in common. However I think it might be easier to then have two parent classes that inherit from the item class, Breakable and NonBreakable so that the breakable items can be grouped together and the nonbreakable ones could be too.
+
+### Activity 2:
+
+The class that represents the model is the PlayerW5Demo2 class. The class that represents the view is EnemyStats and the class that represents the controller is the ItemW5Demo2 class.
+
+### Activity 3:
+
+#### Scenario 1
+
+Nemo could use prefabs to represent the beats in code and they could have a script attached to it and have a sprite. The type of beat could be represented with an enum and a Finate State Machince could be used to determine whether the beat was hit on time or missed. They could use scriptableobjects too.
+
+#### Scenario 2
+
+Leo could use inheritance and polymorphism to create the agents. He could make a parent class for all of the agents where the common behavior is stored such as movement, shooting, and getting hurt. Then for each agent he could make a child class that inherits from the parent class and thats where all the unique attacks are stored as well as the specific animations and different modes of movement that override the parent class if needed. A finate state machine could be used to determine if a player is alive or dead or is a round is ongoin or over and whether or not it was a loss/win.
+
+#### Scenario 3
+
+Willow could use a Finate State Machine to represent the growth of the plant and the different stages of plant growth.
+
+### Activity 4:
+
+Attendence: Mira Liu, Beiduo Jin, Luis Alberto Jr. Chavarin
+Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
