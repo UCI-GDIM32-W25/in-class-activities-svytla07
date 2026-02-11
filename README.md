@@ -91,3 +91,30 @@ Willow could use a Finate State Machine to represent the growth of the plant and
 Attendence: Mira Liu, Beiduo Jin, Luis Alberto Jr. Chavarin
 
 Proposal: [Final Project Proposal First Draft](https://docs.google.com/document/d/1KHzQUOe_9pFKEXuYQW5sSsAkWXeVOPrjhrICp1-lh7M/edit?usp=sharing)
+
+## W6
+
+Talk: Game Writing, Cory Lanham
+
+Notes:
+- Game writers do not make all the creative choices in the story
+- Collaboration is key in game writing
+- In house writers can only work on one project because of conflicting interests
+- In house writers are going to be in a a lot of meetings with other roles that have a say in the creative process
+- A high level narrative summary is created during pre production
+- It has all key plot points of the story
+- Pre production will also be where you come up with narrative delivery methods which are also known as how the story will be told
+- During production is when the cinematic scripts are written and will also be rewritten a lot
+- Systemic dialogue includes dialogue barks, ambient dialogue, and specialized dialogue systems 
+- Post production is a lot of final edits and revisions and fixing any mistakes that might have been overlooked in the other stages
+- To break in the game writing industry, you might have to look for work in other departments
+- QA is most common way people break in to the industry
+- In house QA > Outsourced team
+- Contract/Project hire only part of the team for the the length of a project and then you’ll probably get let go
+- Internships are also another common way
+- Look for opportunities to help the narrative team
+- Build your portfolio
+- Make games by yourself or with others (better with others since it shows you can work with a team)
+- Develop skills
+- Participate in GameJams
+- Networking/Making connections
