@@ -134,6 +134,7 @@ Notes:
 Attendence: Mira Liu, Beiduo Jin, Luis Chavarin
 
 ### Activity 3:
+<img width="989" height="638" alt="Screenshot 2026-02-17 at 5 57 57 PM" src="https://github.com/user-attachments/assets/0ce2e721-7d2b-4107-a73a-3ea3191571f1" />
 
 ### Activity 4:
 
