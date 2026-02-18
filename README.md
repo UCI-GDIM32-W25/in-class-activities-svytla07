@@ -118,3 +118,29 @@ Notes:
 - Develop skills
 - Participate in GameJams
 - Networking/Making connections
+
+## W7
+
+### Activity 1:
+
+Notes:
+- raycast is an arrow being thrown into the scene and seeing if it hits something
+- raycasting can work as a line of sight
+- the color can be changed to see better
+- raycasting can be attached to an object
+
+### Activity 2:
+
+Attendence: Mira Liu, Beiduo Jin, Luis Chavarin
+
+### Activity 3:
+
+### Activity 4:
+
+https://trello.com/invite/b/69951d12a3e1a6e8a0974e38/ATTI2f2d83280b373b2dd9fb05985fb2f01fF7648ECA/-
+
+### Activity 5:
+
+https://github.com/svytla07/GDIM32-Final/commit/b0d883744f7acac127a8612c9430272d58d80a35
+
+I created the repo, made the project in unity and created folders to organize the scripts, audio and sprites. I also made a player script. 
