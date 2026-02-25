@@ -145,3 +145,36 @@ Attendence: Mira Liu, Beiduo Jin, Luis Chavarin
 [Final Commit](https://github.com/svytla07/GDIM32-Final/commit/b0d883744f7acac127a8612c9430272d58d80a35)
 
 I created the repo, made the project in unity and created folders to organize the scripts, audio and sprites. I also made a player script. 
+
+## W8
+
+### Activity 1:
+
+- shaders that affect the look of your entire screen
+- can make your game look much more professional
+- can also make your game run slower if there are too many post processing effects
+- bloom is a post processing effect that makes bright colors glow
+- first step is to install the package for the post processing system
+- unity has a small library of effects already
+
+### Activity 2:
+
+Attendence: Mira Liu, Beiduo Jin, Luis Chavarin
+
+### Activity 3:
+
+- Movement doesn't work
+- There is some random text that appears when the game starts
+- Terrain is missing
+- Camera doesn't move with player
+- Player object doesn't have a mesh so it can't be seen
+
+### Activity 4:
+
+The task I am going to work on is make the player movement work and make the camera move with the player
+
+### Activity 5:
+
+[Final Commit](https://github.com/svytla07/GDIM32-Final/commit/65de710e5e488b3c2c23b8f02d511e84dfbf5df9)
+
+I tried to fix the issue where the camera wouldn't move with the player as well as the player movement. 
