@@ -178,3 +178,32 @@ The task I am going to work on is make the player movement work and make the cam
 [Final Commit](https://github.com/svytla07/GDIM32-Final/commit/65de710e5e488b3c2c23b8f02d511e84dfbf5df9)
 
 I tried to fix the issue where the camera wouldn't move with the player as well as the player movement. 
+
+## W9
+### Activity 1:
+
+- check if every possible outcome works
+- use dialogue nodes
+- other options reference the dialogue nodes
+- make sure every branch has it's desired outcome 
+- important to test builds instead of just testing in Unity
+
+### Activity 2:
+
+Attendence: Mira Liu, Beiduo Jin, Luis Chavarin
+
+### Activity 3:
+
+- Camera movement is a little weird
+- Items spawn mutiple times when they shouldn't be
+- Enviornment is buggy
+
+### Activity 4:
+
+Unfortunately we are not halfway done with our project, we are  behind due to the merge conflicts we have been running into and the amount of features we have to implement in total. We definetly habe too big of a scope for our project and will probably have to cut out some of the features. We're planning to get rid of the customers and only have one NPC for the manager who will make sure our orders are correct through the quest system. 
+
+### Activity 5:
+[Final Commit](https://github.com/svytla07/GDIM32-Final/commit/629459a11016554b1179043963fc8e3226742c06)
+
+I deleted the Camera Movement script and made the camera a child object of the player object so that the camera would follow the player. Then I made it so that the person could control the camera movement with the mouse by adding code to the player class. 
+
