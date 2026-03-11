@@ -207,3 +207,23 @@ Unfortunately we are not halfway done with our project, we are  behind due to th
 
 I deleted the Camera Movement script and made the camera a child object of the player object so that the camera would follow the player. Then I made it so that the person could control the camera movement with the mouse by adding code to the player class. 
 
+## W10
+
+### Activity 1:
+
+Attendence: Mira Liu, Beiduo Jin, Luis Chavarin
+
+### Activity 2:
+
+- Camera movement not working
+- Little progress
+
+### Activity 3:
+
+We've just reached the halfway point, but we still have a lot to do since by now we need to be over halfway done. I don't think this has anything to do with our project scope but more our workflow since we keep running into issues in our code.  
+
+### Activity 4:
+
+[Final Commit](https://github.com/svytla07/GDIM32-Final/commit/0dfe85a6fbd55e52b76189e8d1fb98f941f532a4)
+
+I tried to fix the mouse movement to make it so the mouse is centered by creating a new script called mouseand attaching it the camera. 
